@@ -1,7 +1,7 @@
 <?php
 $servidor='localhost';
-$usuario='Francisco';
-$password='hola';
+$usuario='root';
+$password='';
 $bd='exercici_viatjes';
 
 ?>
